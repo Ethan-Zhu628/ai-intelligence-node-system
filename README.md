@@ -1,49 +1,53 @@
 # AI Intelligence Node System
 
 ## Concept Proposal
+Signal-triggered Local AI Intelligence Node for Macro Risk Scoring
 
-This repository records the original concept of a system architecture named:
-
-**Signal-Triggered Local AI Intelligence Node System**
-
-The idea was proposed and documented by the author as a conceptual framework for a macro-level intelligence analysis tool.
-
-Date of concept publication:  
-2026-03-12
-
-Author:  
-Yancheng Zhu
+Author: Zhu Yanchen  
+Date: 2026-03-12  
 
 ---
 
-## Core Concept
+## Core Idea
 
-The system proposes a local AI intelligence node architecture designed to monitor and analyze macro-level signals.
+This project proposes a **signal-triggered local AI intelligence node architecture** designed for macroeconomic and geopolitical risk monitoring.
 
-Instead of continuously running large models, the system uses a **signal-triggered mechanism** to activate AI analysis only when specific macro indicators are detected.
+The system operates as a lightweight local AI node that continuously monitors multi-source information signals and activates AI inference only when predefined triggers are detected.
 
-This architecture aims to reduce computation costs while improving responsiveness to key macroeconomic signals.
+Key innovation points include:
 
----
+1. **Signal-triggered AI activation architecture**  
+   AI models are not continuously running but activated only when specific signals appear.
 
-## Key Design Ideas
+2. **Local intelligence node design**  
+   The system can run on personal computing devices without requiring centralized cloud infrastructure.
 
-1. Local AI intelligence node architecture
-2. Signal-triggered AI activation mechanism
-3. Multi-source macro signal aggregation
-4. Risk scoring module for macro environment analysis
-5. Modular intelligence processing pipeline
+3. **Multi-dimensional macro risk scoring**  
+   Signals from finance, geopolitics, and economic indicators are fused to produce a dynamic risk score.
 
----
-
-## Purpose
-
-This repository serves as a **public timestamp record of the original concept** and is intended to document the existence of this system architecture idea.
-
-No full implementation code is provided at this stage.
+4. **Distributed personal intelligence infrastructure**  
+   The architecture allows individuals to run independent AI intelligence nodes.
 
 ---
 
-## Notes
+## Purpose of this Repository
 
-This repository records the conceptual framework only and does not disclose the full technical implementation details.
+This repository serves as:
+
+- A **public timestamp proof of the concept**
+- Documentation of the original idea
+- Early-stage concept record
+
+Created for intellectual property documentation purposes.
+
+---
+
+## Status
+
+Concept stage only.
+
+No production implementation yet.
+
+---
+
+© 2026 Zhu Yanchen

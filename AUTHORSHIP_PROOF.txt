@@ -1,0 +1,23 @@
+Open Source Authorship Evidence Document
+
+System Name:
+AI情报节点系统 V1.0
+
+Purpose:
+This document records the initial publication of the system architecture
+and software structure for authorship verification.
+
+Publication Method:
+GitHub public repository.
+
+Timestamp (UTC):
+2026-03-12 10:18:11 UTC
+
+Evidence Items:
+1. Repository creation time
+2. Commit history
+3. File hash verification
+4. Public archive snapshot
+
+This document can be used together with the repository commit history
+to prove original authorship of the system concept and implementation.

@@ -1,53 +1,23 @@
-# AI Intelligence Node System
+# AI情报节点系统 V1.0
 
-## Concept Proposal
-Signal-triggered Local AI Intelligence Node for Macro Risk Scoring
-
-Author: Zhu Yanchen  
-Date: 2026-03-12  
-
----
+This repository contains the original concept structure and reference implementation of the **AI Intelligence Node System**.
 
 ## Core Idea
+A signal‑triggered AI analysis architecture that activates AI modules only when specific macro signals are detected.
 
-This project proposes a **signal-triggered local AI intelligence node architecture** designed for macroeconomic and geopolitical risk monitoring.
+## Key Modules
+- Data Collector
+- Signal Detector
+- AI Analysis Engine
+- Risk Scoring Engine
+- Report Generator
+- Node Controller
 
-The system operates as a lightweight local AI node that continuously monitors multi-source information signals and activates AI inference only when predefined triggers are detected.
-
-Key innovation points include:
-
-1. **Signal-triggered AI activation architecture**  
-   AI models are not continuously running but activated only when specific signals appear.
-
-2. **Local intelligence node design**  
-   The system can run on personal computing devices without requiring centralized cloud infrastructure.
-
-3. **Multi-dimensional macro risk scoring**  
-   Signals from finance, geopolitics, and economic indicators are fused to produce a dynamic risk score.
-
-4. **Distributed personal intelligence infrastructure**  
-   The architecture allows individuals to run independent AI intelligence nodes.
-
----
-
-## Purpose of this Repository
-
+## Purpose
 This repository serves as:
 
-- A **public timestamp proof of the concept**
-- Documentation of the original idea
-- Early-stage concept record
+1. Open-source concept reference
+2. Technical documentation
+3. **Authorship timestamp proof**
 
-Created for intellectual property documentation purposes.
-
----
-
-## Status
-
-Concept stage only.
-
-No production implementation yet.
-
----
-
-© 2026 Zhu Yanchen
+Initial publication timestamp: 2026-03-12 10:18:11 UTC
